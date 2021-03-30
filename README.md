@@ -29,7 +29,7 @@ C:\%PATH%> python sc_ui.py
 2. Changes the `iol` value, which can also be changed by modifying the value of it between <> in `uSettings.txt`. `iol`controls the **spacing** of the **I/O** values for both languages in the debugger.
 3. Changes the `ll` value, which can also be changed by modifying the value of it between <> in `uSettings.txt`. `ll` controls the **spacing** of the **lines** in **writing mode**.
 
-- There is *one* command in writing mode, besides `:q`, `:s` & `:c`, `:d #` (where "#" is an integer). `:d` deletes whichever line is the value of `#`.
+- There is *one* command in writing mode, besides `:q`, `:s` & `:c`, `:d #` (where "#" is an integer). `:d` deletes whichever line has the value of `#`.
 
 The files named "writer.cmd_file.txt" & "writer.file.txt" are only there for stability for WSL Ubuntu (which was the one I used for debugging and coding the program in the most part). It's harmless to delete for the program is going to create one again (if necessary).
 
