@@ -25,7 +25,7 @@ C:\%PATH%> python sc_ui.py
 
 ( where "#" is an *integer*)
 
-1. Changes the `OS` value, which can also be changed by modifying the value of it between <> in `uSettings.txt`, so that the program optimizes to your specific `os`. Values available are: `:cos windows`, `:cos linux` &`:cos android`.
+1. Changes the `os` value, which can also be changed by modifying the value of it between <> in `uSettings.txt`, so that the program optimizes to your specific `os`. Values available are: `:cos windows`, `:cos linux` &`:cos android`.
 2. Changes the `iol` value, which can also be changed by modifying the value of it between <> in `uSettings.txt`. `iol`controls the **spacing** of the **I/O** values for both languages in the debugger.
 3. Changes the `ll` value, which can also be changed by modifying the value of it between <> in `uSettings.txt`. `ll` controls the **spacing** of the **lines** in **writing mode**.
 
